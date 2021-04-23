@@ -1,5 +1,5 @@
 # My Blog
-> Recently, I built my own blog site, welcome to [yuanY' Blog](https://yuanyuan1000.github.io) (*￣︶￣),The specific content needs to be improved and will continue to be updated...
+> Recently, I built my own blog site, welcome to [yuanY' Blog](https://yuanyuan1000.github.io) (*￣︶￣). The specific content needs to be improved and will continue to be updated...
 
 # 搭建使用
 # NexT
