@@ -2,7 +2,7 @@
 > Recently, I built my own blog site, welcome to [yuanY' Blog](https://yuanyuan1000.github.io) (*￣︶￣)
 
 
-
+# 搭建使用
 # NexT
 
 > 精于心，简于形
